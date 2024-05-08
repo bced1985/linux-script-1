@@ -1,1 +1,3 @@
-# linux-script-1
+# Scripts shell Linux et Unix
+Ce document est un résumé de ma lecture du livre ... de Christophe...
+Il sera est structuré de cette manière :
