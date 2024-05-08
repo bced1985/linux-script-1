@@ -3,12 +3,12 @@ Ce document est un résumé de ma lecture du livre ... de Christophe...
 
 Il est structuré de cette manière :  
 
-Un  chapitre du livre est représenté par un repertoire dans ce project Git.  
+Un  chapitre du livre est représenté par un répertoire dans ce projet Git.  
 
 Dans chaque répertoire, se trouve un ou des fichiers shell. 
 
-Chaque fichier shell contient les notions sur un concept donnée; et est structuré comme suit :  
-- Titre du fichier
+Chaque fichier shell contient les notions sur un concept (exemple : la commande ***getopts***); et est structuré comme suit :  
+
 - Descriptif du concept
-- Syntaxe de base
+- Syntaxe de base d'utilisation du concept (facultatif)
 - Code shell
