@@ -1,14 +1,15 @@
 # Scripts shell Linux et Unix
-Ce document est un résumé de ma lecture du livre __Scripts shell Linux et Unix__ de **Christophe Blaess**  
+Ce document est un résumé de ma lecture du livre ___Scripts shell Linux et Unix___ de **Christophe Blaess**  
 Voici le [lien vers le site web du livre](https://www.blaess.fr/christophe/livres/scripts-shell-linux-et-unix/)
 
-Il est structuré de cette manière :  
+Ce document est structuré de cette manière :  
 
-Un  chapitre du livre est représenté par un répertoire dans ce projet Git.  
+Un  chapitre du livre est représenté par un répertoire dans ce projet/dépôt GitHub.  
 
 Dans chaque répertoire, se trouve un ou des fichiers shell. 
 
 Chaque fichier shell contient les notions sur un concept (exemple : la commande ***getopts***).  
+
 Le fichier shell est structuré comme suit :  
 
 1. Descriptif du concept
