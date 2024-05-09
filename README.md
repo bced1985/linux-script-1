@@ -1,5 +1,5 @@
 # Scripts shell Linux et Unix
-Ce document est un résumé de ma lecture du livre ___Scripts shell Linux et Unix___ de **Christophe Blaess**  
+Ce document est un résumé de ma lecture du livre ___Scripts shell Linux et Unix___ de **Christophe Blaess**.  
 Voici le [lien vers le site web du livre](https://www.blaess.fr/christophe/livres/scripts-shell-linux-et-unix/)
 
 Ce document est structuré de cette manière :  
