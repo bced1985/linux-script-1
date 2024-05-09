@@ -1,6 +1,6 @@
 # Scripts shell Linux et Unix
-Ce document est un résumé de ma lecture du livre de **Christophe Blaess**  
-Voici le [lien vers le site web du livre **Scripts shell Linux et Unix**](https://www.blaess.fr/christophe/livres/scripts-shell-linux-et-unix/)
+Ce document est un résumé de ma lecture du livre __Scripts shell Linux et Unix__ de **Christophe Blaess**  
+Voici le [lien vers le site web du livre](https://www.blaess.fr/christophe/livres/scripts-shell-linux-et-unix/)
 
 Il est structuré de cette manière :  
 
