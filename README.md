@@ -34,3 +34,16 @@ create or replace view active_toys as
 
 select * from active_toys;
 
+``` Ruby
+class MyClass
+end
+```
+
+``` sql
+create or replace view active_toys as
+  select * from toys
+  where is_deleted = 'N';
+
+select * from active_toys;
+```
+
