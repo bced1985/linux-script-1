@@ -27,3 +27,10 @@ Le fichier shell est structuré comme suit :
 #### Chapitre n :
 *Mots-clés : ... - ...*  
 
+'''sql
+create or replace view active_toys as
+  select * from toys
+  where is_deleted = 'N';
+
+select * from active_toys;
+
