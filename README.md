@@ -41,4 +41,5 @@ create or replace view active_toys as
 
 select * from active_toys;
 ```
+[//]: # (This may be the most platform independent comment)
 
