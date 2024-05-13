@@ -28,7 +28,7 @@ Le fichier shell est structuré comme suit :
 *Mots-clés : ... - ...*  
 
 # Views
-The most universal way is to create a view over the top of the table. This contains the query excluding "deleted" rows. You change your application to query the view instead of the table.
+[//]: # (The most universal way is to create a view over the top of the table. This contains the query excluding "deleted" rows. You change your application to query the view instead of the table.)
 ``` sql
 create or replace view active_toys as
   select * from toys
