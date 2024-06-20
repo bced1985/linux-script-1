@@ -18,22 +18,32 @@ Le fichier shell est structuré comme suit :
 
 ## Sommaire
 
-#### Chapitre 1 :  
+#### Chapitre 1 : Principes des scripts shell
 *Mots-clés : ... - ...*
 
-#### Chapitre 2 :  
+#### Chapitre 2 : Programmation shell
 *Mots-clés : ... - ...*  
 
-#### Chapitre n :
+#### Chapitre 3 : Evaluation d'expressions
+*Mots-clés : ... - ...*
+
+#### Chapitre 4 : Elements de programmation shell
+*Mots-clés : ... - ...*
+
+#### Chapitre 5 : Commandes, variables et utilitaires système
 *Mots-clés : ... - ...*  
 
-# Views
-[//]: # (The most universal way is to create a view over the top of the table. This contains the query excluding "deleted" rows. You change your application to query the view instead of the table.)
-``` sql
-create or replace view active_toys as
-  select * from toys
-  where is_deleted = 'N';
+#### Chapitre 6 : Programmation shell avancée
+*Mots-clés : ... - ...*
 
-select * from active_toys;
-```
+#### Chapitre 7 : Expressions régulières - Grep
+*Mots-clés : ... - ...*
 
+#### Chapitre 8 : Sed
+*Mots-clés : ... - ...*  
+
+#### Chapitre 9 : Awk
+*Mots-clés : ... - ...*
+
+#### Chapitre 10 : Bonne écriture d'un script
+*Mots-clés : ... - ...*
